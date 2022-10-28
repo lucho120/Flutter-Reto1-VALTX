@@ -1,5 +1,5 @@
-import 'package:app_reto1_valtx/views/home/widgets/doctors.dart';
 import 'package:flutter/material.dart';
+import 'package:app_reto1_valtx/views/home/widgets/doctors.dart';
 import 'package:app_reto1_valtx/views/home/widgets/specialities.dart';
 
 class Content extends StatelessWidget {

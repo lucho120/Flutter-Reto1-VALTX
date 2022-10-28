@@ -1,5 +1,5 @@
-import 'package:app_reto1_valtx/theme/colors_general.dart';
 import 'package:flutter/material.dart';
+import 'package:app_reto1_valtx/theme/colors_general.dart';
 
 class HeaderBar extends StatelessWidget {
   const HeaderBar({Key? key}) : super(key: key);

@@ -1,5 +1,5 @@
-import 'package:app_reto1_valtx/views/home/widgets/content.dart';
 import 'package:flutter/material.dart';
+import 'package:app_reto1_valtx/views/home/widgets/content.dart';
 
 import 'package:app_reto1_valtx/views/home/widgets/app_bottom_navigation.dart';
 import 'package:app_reto1_valtx/views/home/widgets/header_bar.dart';
